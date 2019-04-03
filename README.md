@@ -1,4 +1,4 @@
-# App
+# ElixirApp
 
 **TODO:**
 
@@ -19,9 +19,9 @@ You are allowed to use Ruby or **Elixir** for the task.
 ## Run
 
 ```elixir
-git clone 
+git clone https://github.com/makemefriendanshu/ElixirApp.git
 cd App
 mix deps.get
 iex -S mix
-App.get!("")
+ElixirApp.get
 ```
